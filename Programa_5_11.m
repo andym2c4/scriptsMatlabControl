@@ -18,7 +18,7 @@ DD=[0];
 % ***** Introduzca la orden de respuesta a un salto:
 % [z,x,t]=step(AA,BB,CC,DD) *****
 f1=figure(1);
-f1.Name="Respuesta a un impulso unitario";
+f1.Name="Respuesta a una rampa unitaria";
 f1.WindowStyle="docked";
 f1.Pointer="crosshair";
 f1.NumberTitle="off";
