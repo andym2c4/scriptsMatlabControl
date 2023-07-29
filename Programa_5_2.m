@@ -1,4 +1,3 @@
-
 % ***** En este programa se representan las Curvas de
 % respuesta escalón de un sistema que tiene dos entradas
 %(u1 y u2) y dos salidas (y1 y y2) *****
