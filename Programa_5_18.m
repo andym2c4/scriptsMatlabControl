@@ -25,8 +25,9 @@ Cs=sum(Cs);
 disp("Cs=")
 pretty(Cs)
 %% asumiendo que es sobre real
-Cs=real(Cs);
+% Cs=real(Cs);
 Ct=ilaplace(Cs);
+Ct=real(Ct);
 Ct=simplify(Ct);
 disp("Ct=")
 pretty(Ct)
